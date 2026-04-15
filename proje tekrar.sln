@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje tekrar", "proje tekrar\proje tekrar.csproj", "{32FD9A8D-A8A4-4630-A648-FAB7BB0CDB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FD9A8D-A8A4-4630-A648-FAB7BB0CDB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FD9A8D-A8A4-4630-A648-FAB7BB0CDB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FD9A8D-A8A4-4630-A648-FAB7BB0CDB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FD9A8D-A8A4-4630-A648-FAB7BB0CDB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C638445-B9F1-4D12-8E80-9E9442C06952}
+	EndGlobalSection
+EndGlobal
