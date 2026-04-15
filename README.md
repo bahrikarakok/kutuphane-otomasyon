@@ -7,7 +7,7 @@ Platform: .NET Desktop (Windows Forms)
 
 Veritabanı: Microsoft SQL Server
 
-IDE: Visual Studio 2022
+IDE: Visual Studio 2019
 
 ✨ Temel Fonksiyonlar
 Üye Yönetimi: Kütüphane üyelerini kaydetme ve bilgilerini güncelleme.
